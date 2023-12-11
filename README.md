@@ -1,2 +1,2 @@
-# stats
-stats using python
+# data analysis
+eda, fe, visualisation python
